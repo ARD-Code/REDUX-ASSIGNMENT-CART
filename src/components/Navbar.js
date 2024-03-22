@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <nav>
       <div className="nav-center">
-        <h3>Learning Redux by Audia</h3>
+        <h3>Learning Redux by ANDI RAJA DEWA</h3>
         <div className="nav-container">
           <CartIcon />
           <div className="amount-container">
